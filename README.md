@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @roi-23
-- 👀 I’m interested in Machine Learning. 
-- 🌱 I’m currently finishing my BA in Computer Science specialized in Data Science. 
-- 💞️ I’m looking to collaborate on CSC 480 Senior Capstone Class project. 
+- 👀 I’m interested in Cybersecurity and Data Analytics. 
+- 💞️ Here's my journey to adding projects to enhance my skills.
 - 📫 How to reach me ... roihkawnghpaudaw@gmail.com
 
 <!---
