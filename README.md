@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roi-23
 - 👀 I’m interested in Cybersecurity and Data Analytics. 
-- 💞️ Here's my journey to adding projects to enhance my skills.
+- 💞️ Here's my journey to adding projects to honing my skills.
 - 📫 How to reach me ... roihkawnghpaudaw@gmail.com
 
 <!---
